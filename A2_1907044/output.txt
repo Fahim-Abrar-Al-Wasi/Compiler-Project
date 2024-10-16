@@ -1,0 +1,385 @@
+
+[importing Header]
+
+[header found]
+
+Included header file: stdio.h
+
+[Integer Type Detected]
+
+[Variable Detected]
+
+[Integer Value Detected]
+
+Int value is 10
+
+[Float Type Detected]
+varriable declared : x
+
+[Variable Detected]
+
+[Floating Value Detected]
+
+Float value is 20.230000
+
+[String Type Detected]
+varriable declared : y
+
+[Variable Detected]
+
+[String Value Detected]
+
+String value is my name "Wasi".I am a student
+
+[Float Type Detected]
+varriable declared : abc
+
+[Variable Detected]
+
+[Variable Detected]
+
+[Variable Detected]
+
+[Variable Detected]
+
+[Variable Detected]
+
+[Accessing Variable]
+
+[Accessing Variable]
+Int value is 10
+
+[Addition Detected]
+
+[Accessing Variable]
+Float value is 20.230000
+
+[Accessing Variable]
+
+Type of the variable is Float
+
+Value of the variable 30.230000
+Value assigned :: add = 30.230000
+
+[Accessing Variable]
+Int value is 10
+
+[Subtraction Detected]
+
+[Accessing Variable]
+Float value is 20.230000
+
+[Accessing Variable]
+Value assigned :: sub = -10.230000
+
+[Accessing Variable]
+Int value is 10
+
+[Multiplication Detected]
+
+[Accessing Variable]
+Float value is 20.230000
+
+[Accessing Variable]
+Value assigned :: mul = 202.300000
+
+[Accessing Variable]
+Int value is 10
+
+[Division Detected]
+
+[Accessing Variable]
+Float value is 20.230000
+
+[Float Type Detected]
+Value assigned :: div = 0.494315
+
+[Variable Detected]
+
+[Floating Value Detected]
+
+Float value is 0.000000
+
+[IF Detected]
+varriable declared : a
+
+[Accessing Variable]
+Float value is 30.230000
+
+[Accessing Variable]
+Float value is 202.300000
+
+[Accessing Variable]
+
+[Accessing Variable]
+Float value is 30.230000
+Value assigned :: a = 30.230000
+
+[ELSE Detected]
+
+[Accessing Variable]
+
+[Accessing Variable]
+Float value is 202.300000
+Value assigned :: a = 202.300000
+ELSE Block executed
+
+
+[Structure Detected]
+
+[Variable Detected]
+
+[Integer Type Detected]
+
+[Variable Detected]
+
+[Float Type Detected]
+
+[Variable Detected]
+struct successfully declared
+
+[Void Type Detected]
+
+[Function Detected]
+
+[Variable Detected]
+
+[Integer Type Detected]
+
+[Variable Detected]
+
+[Integer Type Detected]
+
+[Variable Detected]
+
+[Integer Type Detected]
+
+[Variable Detected]
+
+[Integer Value Detected]
+
+Int value is 10
+varriable declared : p
+function successfully declared: term
+
+[Integer Type Detected]
+
+[Function Detected]
+
+[Variable Detected]
+
+[Return Detected]
+
+[Integer Value Detected]
+
+Int value is 1
+return occured
+value of the expression: 
+Type of the variable is Int
+
+Value of the variable 1
+function successfully declared: ok
+
+[Integer Value Detected]
+
+Int value is 2
+
+[Integer Value Detected]
+
+Int value is 2
+Value of the expression :: 4.000000
+
+[Integer Value Detected]
+
+Int value is 30
+Value of the expression: -0.988032
+
+[Integer Value Detected]
+
+Int value is 45
+
+[Multiplication Detected]
+
+[Floating Value Detected]
+
+Float value is 3.141600
+
+[Division Detected]
+
+[Integer Value Detected]
+
+Int value is 180
+Value of the expression :: 1.000004
+
+[Integer Type Detected]
+
+[Variable Detected]
+
+[Integer Value Detected]
+
+Int value is 4
+
+[Integer Type Detected]
+varriable declared : goal
+
+[Variable Detected]
+
+[Integer Value Detected]
+
+Int value is 0
+varriable declared : i
+
+[Variable Detected]
+
+[Integer Value Detected]
+
+Int value is 4
+varriable declared : j
+
+[Variable Detected]
+
+[Integer Value Detected]
+
+Int value is 1
+
+[String Type Detected]
+varriable declared : k
+
+[Variable Detected]
+
+[String Value Detected]
+
+String value is Argentina Wins
+
+[Switch Detected]
+varriable declared : team
+
+[Accessing Variable]
+Int value is 4
+
+
+Switch case 
+
+[Case Detected]
+
+[Integer Value Detected]
+
+Int value is 3
+
+[String Type Detected]
+
+[Variable Detected]
+
+[String Value Detected]
+
+String value is France wins.
+
+[Case Detected]
+varriable declared : frnace
+
+[Integer Value Detected]
+
+Int value is 4
+
+[For Loop Detected]
+
+[Accessing Variable]
+Int value is 0
+
+[Accessing Variable]
+Int value is 4
+
+[Accessing Variable]
+Int value is 1
+
+[Accessing Variable]
+String value is Argentina Wins
+
+
+for loop
+
+For iteration 0 OUTPUT: Argentina Wins
+For iteration 1 OUTPUT: Argentina Wins
+For iteration 2 OUTPUT: Argentina Wins
+For iteration 3 OUTPUT: Argentina Wins
+
+[Default Detected]
+
+Case executed : 4
+
+[String Type Detected]
+
+[Variable Detected]
+
+[String Value Detected]
+
+String value is Match draw.
+varriable declared : draw
+
+[String Type Detected]
+
+[Variable Detected]
+
+[String Value Detected]
+
+String value is My name is Khan.
+
+[For Loop Detected]
+varriable declared : name
+
+[Accessing Variable]
+Int value is 0
+
+[Accessing Variable]
+Int value is 4
+
+[Accessing Variable]
+Int value is 1
+
+[Accessing Variable]
+Float value is 202.300000
+
+
+for loop
+
+For iteration 0 OUTPUT: 202.300000
+For iteration 1 OUTPUT: 202.300000
+For iteration 2 OUTPUT: 202.300000
+For iteration 3 OUTPUT: 202.300000
+
+[While Loop Detected]
+
+[Integer Value Detected]
+
+Int value is 8
+
+[Integer Value Detected]
+
+Int value is 10
+
+[Integer Value Detected]
+
+Int value is 5
+While Iteration:7 output:10
+While Iteration:6 output:10
+While Iteration:5 output:10
+
+[Single Line Comment detected]
+
+[Print Detected]
+PRINT : 
+[Accessing Variable]
+Float value is 202.300000
+
+Type of the variable is Float
+
+Value of the variable 202.300000
+
+[Accessing Variable]
+String value is My name is Khan.
+
+Type of the variable is String
+
+Value of the variable My name is Khan.
+
+Successfully Executed

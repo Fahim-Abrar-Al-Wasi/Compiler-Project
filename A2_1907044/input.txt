@@ -1,0 +1,69 @@
+take_in < stdio.h>
+numeric x <-10
+decimal y <- 20.23
+
+
+string abc <- "my name "Wasi".I am a student"
+
+decimal add,sub,mul,div,random
+
+&add <- &x + &y
+&sub <- &x - &y
+&mul <- &x * &y
+&div <- &x / &y
+
+decimal a <- 0.0
+
+check (&add > &mul) {
+	&a <- &add
+}
+fallback{
+	&a <- &mul
+}
+
+record student{
+	numeric roll
+	decimal cgpa
+}
+
+none method term(numeric year,numeric semester){
+	numeric p <- 10
+}
+
+numeric method ok(){
+	result 1
+}
+
+pow(2,2)
+
+sin(30)
+tan(45*(3.1416/180))
+
+numeric goal <- 4
+
+select(&goal){
+    pick 3:
+	string frnace <- "France wins."	
+    pick 4:
+	string argentina <- "Argentina wins."
+    default:
+	string draw <- "Match draw."	
+}
+
+numeric i<-0,j<-4,k<-1
+
+string name <- "My name is Khan."
+
+iteration(&i : <&j : &k){
+	11.11
+}
+conditional_loop(8){
+	10
+	break(5)
+}
+
+#single line comment
+display(&a,&name)
+
+
+
